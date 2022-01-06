@@ -1,6 +1,6 @@
 package HighLevel;
 //Kadane algorithm:We have to find maximum Sub array
-//
+
 public class MaxSum {
     public static void main(String[] args) {
         int array[] = {10, -4, 6, -8, 5};

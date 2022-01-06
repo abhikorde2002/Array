@@ -3,6 +3,7 @@ package String;
 import java.util.Stack;
 
 public class Parenthesis {
+    // paerenthesis matching using stack data structure
     public static void main(String[] args) {
         String str = "dhtdyrg[][[]]";
         System.out.println(isParenthisisMatch(str) ? "Parenthesis are match" : "Parenthesis are not match");
